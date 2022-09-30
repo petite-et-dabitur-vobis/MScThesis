@@ -13,7 +13,7 @@ This file implements the basic types needed, which corresponds roughly to Chapte
 This file implements the notions needed for the Univalence Axiom, as well as the axiom itself, which corresponds roughly to Chapter 3.2.
 
 ### Interval.agda, Circle.agda, Other_Circle.agda
-This file implements the Circle using HITs, which corresponds to Chapter 3.1, as well as the Interval, which isn't talk about in the thesis. Other_Circle has the first tentative implementations
+Circle.agda implements the Circle using HITs, which corresponds to Chapter 3.1; Interval.agda does the same for the unit interval, which isn't talked about in the thesis. Other_Circle.agda has the some other implementations used as example.
 
 ### SeqViews.agda
 This file corresponds to the implementations of Chapter 4, which treats Views and the HoTT solution to the problem at https://homotopytypetheory.org/2012/11/12/abstract-types-with-isomorphic-types/, from where it translates some code and finishes some uncompleted things.
