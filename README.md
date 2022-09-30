@@ -4,6 +4,8 @@ This repository serves to keep the code I did for my thesis, titled "Homotopy Ty
 
 I'll have two folders: one will hold the version I had the day I submitted my thesis (without any change); the other will have improved code, done after the submission.
 
+Agda version as of the submission date was 2.6.1.3.
+
 The version submitted in 30/9/2022 has the following files:
 
 ### Types.agda
